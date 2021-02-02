@@ -2,6 +2,9 @@ using System;
 
 namespace WebApplication1
 {
+    /// <summary>
+    /// Added comment
+    /// </summary>
     public class WeatherForecast
     {
         public DateTime Date { get; set; }
